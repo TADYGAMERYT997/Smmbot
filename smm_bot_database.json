@@ -1,0 +1,15 @@
+{
+    "users": {
+        "6934593900": {
+            "username": "Beingcry",
+            "views_balance": 1439,
+            "referred_by": null,
+            "last_bonus_time": 1754038418.9333878
+        },
+        "5449258093": {
+            "username": "Tadygamerytback",
+            "views_balance": 0,
+            "referred_by": "6934593900"
+        }
+    }
+}
